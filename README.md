@@ -18,7 +18,7 @@ I am a Computer Science and Engineering graduate from North South University, Ba
 
 ## Brief
 
-|                                 |                                                        |
+| Duration                        | Company Name                                           |
 | ------------------------------- | ------------------------------------------------------ |
 | December, 2022 - present        | Software Engineer at Premium Arts Inc. (Tokyo,Japan)   |
 | January, 2020 - September, 2022 | Software Engineer at Younode Inc. (Sapporo,Japan)      |
