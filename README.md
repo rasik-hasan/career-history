@@ -99,11 +99,9 @@ I am a Computer Science and Engineering graduate from North South University, Ba
 
 ### Miscellaneous AWS projects
 
-1. A demo of Digital Twin Technology using AWS twin maker, AWS sitewise and AWS managed Grafana for a client trying to use digital
-   Twin for their system
-2. Creating Bridge server using AWS EC2, Express js and socket.io that requests a real time sensor api and forwards the data to client applications.
+1. Creating Bridge server using AWS EC2, Express js and socket.io that requests a real time sensor api and forwards the data to client applications.
    The bridge server was necessary due to IP address white listing on the sensor data api.
-3. Provision and prepare servers for Wordpress and other applications that need to run in an EC2 server.
+2. Provision and prepare servers for Wordpress and other applications that need to run in an EC2 server.
 
 ---
 
@@ -113,7 +111,7 @@ I am a Computer Science and Engineering graduate from North South University, Ba
 
 #### Organization:
 
-Younode Inc.
+Premium Arts Inc.
 
 #### Project Overview:
 
@@ -149,7 +147,7 @@ Live 360 is an enterprise software for large industrial companies to view the 3D
 
 #### Organization:
 
-Younode Inc.
+Premium Arts Inc.
 
 #### Project Overview:
 
@@ -216,6 +214,30 @@ Aspace CMS is a content and user management system built for the Aspace enterpri
 #### Description:
 
 All the user and data management for the content, company and tools used in Aspace Enterprise application is created/handled from the Aspace CMS.
+
+### Digital Twin
+
+2023.09-2024.03
+
+#### Organization:
+
+Premium Arts Inc.
+
+#### Project Overview:
+
+Creating a digital twin POC for a theater using various devices and sensors to monitor, maintain and improve decision making. An application based on this POC is currently in process.
+
+#### Technology Stack:
+
+- AWS Sitewise
+- AWS IoT Twin Maker
+- AWS Managed Grafana
+
+#### Role:
+
+- Consulting
+- AWS resource creation
+- System Architect
 
 ---
 
