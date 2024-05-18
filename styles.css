@@ -1,4 +1,22 @@
 body {
-    background-color: black;
-    color: white;
+  background-color: black;
+  color: white;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #444444;
+  padding: 8px;
+  text-align: left;
+  color: white; /* Text color */
+  background-color: black; /* Background color for table cells */
+}
+
+th {
+  background-color: #333333; /* Slightly lighter background for headers */
 }
