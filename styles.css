@@ -1,6 +1,6 @@
 body {
-  background-color: black;
-  color: white;
+  background-color: #222831;
+  color: #eeeeee;
 }
 
 table {
@@ -13,8 +13,8 @@ td {
   border: 1px solid #444444;
   padding: 8px;
   text-align: left;
-  color: white; /* Text color */
-  background-color: black; /* Background color for table cells */
+  color: #eeeeee; /* Text color */
+  background-color: #31363f; /* Background color for table cells */
 }
 
 th {
