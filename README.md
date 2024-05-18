@@ -49,6 +49,7 @@ I am a Computer Science and Engineering graduate from North South University, Ba
 | Name          | Self assessment |
 | ------------- | --------------- |
 | React         | A-B             |
+| AWS CDK       | A-B             |
 | React-Native  | A-B             |
 | Redux         | A-B             |
 | Redux-TK      | A-B             |
@@ -77,9 +78,12 @@ I am a Computer Science and Engineering graduate from North South University, Ba
 - Aurora Postgres
 - CloudWatch
 - Serverless architecture
-- Kubernetes
 - EC2
 - VPC
+- IOT Twin Maker
+- IOT Sitewise
+- AWS Managed Grafana
+- CDK
 
 ## Language & Communication
 
@@ -93,9 +97,23 @@ I am a Computer Science and Engineering graduate from North South University, Ba
 
 ## Professional Projects
 
+### Miscellaneous AWS projects
+
+1. A demo of Digital Twin Technology using AWS twin maker, AWS sitewise and AWS managed Grafana for a client trying to use digital
+   Twin for their system
+2. Creating Bridge server using AWS EC2, Express js and socket.io that requests a real time sensor api and forwards the data to client applications.
+   The bridge server was necessary due to IP address white listing on the sensor data api.
+3. Provision and prepare servers for Wordpress and other applications that need to run in an EC2 server.
+
+---
+
 ### Live360
 
-2022.12 - Present
+2022.12 - 2024.04
+
+#### Organization:
+
+Younode Inc.
 
 #### Project Overview:
 
@@ -117,15 +135,21 @@ Enterprise software for immersive digital twin, 3D space viewer of industrial an
 
 - Front end
 - Cloud infrastructure
-- Maintenance
+- Backend
 
 #### Description:
 
 Live 360 is an enterprise software for large industrial companies to view the 3D space of their factories or office space. It is especially useful for virtual tours, onboarding of new personnel by attaching 3D markers that show machinery user manual, usage demo videos in a virtual space.
 
+---
+
 ### Live360 CMS
 
-2022.12 - Present
+2022.12 - 2024.04
+
+#### Organization:
+
+Younode Inc.
 
 #### Project Overview:
 
@@ -149,15 +173,21 @@ Live 360 CMS is a content and user management system built for the Live360 enter
 
 - Front end
 - Cloud infrastructure
-- Maintenance
+- Backend
 
 #### Description:
 
 All the user and content management for the data, company and tools used in Live 360 application is created/handled from the Live360 CMS and is integrated with the Live360 application itself.
 
+---
+
 ### Aspace CMS
 
-2022.12 - Present
+2022.12 - 2024.04
+
+#### Organization:
+
+Premium Arts Inc.
 
 #### Project Overview:
 
@@ -187,9 +217,15 @@ Aspace CMS is a content and user management system built for the Aspace enterpri
 
 All the user and data management for the content, company and tools used in Aspace Enterprise application is created/handled from the Aspace CMS.
 
+---
+
 ### Pulp
 
 2020.08 - 2021.03 & 2021.09 - 2022.09
+
+#### Organization:
+
+Younode Inc.
 
 #### Project overview:
 
@@ -221,9 +257,15 @@ Connecting to new friends through music.
 Pulp is a social network service that allows the user to connect through any music streaming service to the social network and get friends with similar music taste and new song
 recommendations.
 
+---
+
 ### Device manager API for AWL.inc
 
 2021.07-2021.11
+
+#### Organization:
+
+Younode Inc.
 
 #### Project Overview:
 
@@ -235,9 +277,15 @@ Device manager Api development for internal use
 - SQL
 - Stored procedures
 
+---
+
 ### Aill
 
 2021.04 - 2021.07
+
+#### Organization:
+
+Younode Inc.
 
 #### Project Overview:
 
@@ -259,9 +307,15 @@ Japanese dating application with AI functionalities
 
 - React native development
 
+---
+
 ### UI development for AWL Lite devices:
 
 2020.10 - 2021.2
+
+#### Organization:
+
+Younode Inc.
 
 #### Project overview:
 
@@ -278,9 +332,15 @@ Making single page applications for android Webview for a AI system built to sho
 
 - Build functional UIs from psd design.
 
-### Younode
+---
+
+### Younode Password manager
 
 2020.01 - 2020.08
+
+#### Organization:
+
+Younode Inc.
 
 #### Project overview:
 
@@ -322,6 +382,10 @@ Younode is a personal data store that manages passwords and gives the user the c
 
 2019.04 - 2019.05
 
+#### Organization:
+
+University Project
+
 #### Project overview:
 
 House renting platform
@@ -347,6 +411,10 @@ An educational project done to implement Django for a house-renting solution.
 
 2019.01 - 2019.05
 
+#### Organization:
+
+University Project
+
 #### Project overview:
 
 Image Processing to categorize traditional clothing categories of Bangladesh.
@@ -366,6 +434,10 @@ Image Processing to categorize traditional clothing categories of Bangladesh.
 ### Route search using MIT map data
 
 2017.09
+
+#### Organization:
+
+University Project
 
 #### Project overview:
 
