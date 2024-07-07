@@ -20,7 +20,8 @@ I am a Computer Science and Engineering graduate from North South University, Ba
 
 | Duration                        | Company Name                                           |
 | ------------------------------- | ------------------------------------------------------ |
-| December, 2022 - present        | Software Engineer at Premium Arts Inc. (Tokyo,Japan)   |
+| May, 2022 - Present             | Software Engineer at CarbGeM Inc. (Tokyo,Japan)        |
+| December, 2022 - April, 2023    | Software Engineer at Premium Arts Inc. (Tokyo,Japan)   |
 | January, 2020 - September, 2022 | Software Engineer at Younode Inc. (Sapporo,Japan)      |
 | July, 2019 - October, 2019      | Trainee at BJET (Bangladesh-Japan Engineer's Training) |
 | October, 2018 - March, 2019     | Internship at Grameenphone (Bangladesh)                |
