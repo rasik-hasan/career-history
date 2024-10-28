@@ -87,6 +87,11 @@ I am a Computer Science and Engineering graduate from North South University, Ba
 - IOT Sitewise
 - AWS Managed Grafana
 - CDK
+- ECS
+- Codepipeline
+- SNS
+- SES
+- SQS
 
 ## Language & Communication
 
@@ -94,7 +99,7 @@ I am a Computer Science and Engineering graduate from North South University, Ba
   - IELTS Academic 8.5/9.0 (~TOEIC 970)
     (Converted using https://theedge.com.hk/conversion-table-for-toefl-ibt-pbt-cbt-tests/)
 - Japanese
-  - Conversational Level (~N4)
+  - Business Conversation
 - Bengali
   - Native
 
@@ -105,6 +110,56 @@ I am a Computer Science and Engineering graduate from North South University, Ba
 1. Creating Bridge server using AWS EC2, Express js and socket.io that requests a real time sensor api and forwards the data to client applications.
    The bridge server was necessary due to IP address white listing on the sensor data api.
 2. Provision and prepare servers for Wordpress and other applications that need to run in an EC2 server.
+
+---
+
+### CarbConnect
+
+2024.05 - Ongoing
+
+#### Organization:
+
+Carbgem Inc.
+
+#### Project Overview:
+
+A web platform that connects medical institutions and medical specialists , allowing them to request and respond to interpretation requests from anywhere in the world. Also has a range of connected Artificial Intelligence, Machine learning, Image processing based applications that does performs various applications making detection/diagnosis work easier and faster.
+
+### Links:
+
+www.carb-connect.com
+
+#### Technology Stack:
+
+Backend:
+
+- Typescript
+- Postgresql (DB)
+- AWS CDK , API Gateway, Lambda for backend (full serverless)
+- CSR design pattern (controller, service, respository , model)
+- Cognito for authentication
+- Other AWS components (S3, SES, SQS, SNS, Cloudfront, route 53 etc.)
+- ECS (Fargate) for connected applications
+- Codepipeline for CI/CD
+- Cloudwatch for monitoring
+
+FrontEnd:
+
+- Typescript
+- Next JS
+- AWS amplify for deployment
+
+Others:
+
+- Stripe for payment
+
+#### Role:
+
+- Project lead
+- Cloud architect
+- Backend development
+- Cloud infrastructure for connected applications
+- Front end , backend deployment pipelines
 
 ---
 
